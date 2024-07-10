@@ -1,5 +1,8 @@
 # doopley
-Just a game where random stuff happens, i got bored idk.
+Just a game where random stuff happens, I got bored idk.
+
+The code in this repo is not really representative of how I code in Roblox, since this wasnt a serious game and only made in ~1 day,
+so I didn't really consider organization or preformance a priority.
 
 Repo meant as an archive, not being activley developed.
 
