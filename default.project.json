@@ -1,0 +1,36 @@
+{
+  "name": "doopley",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Source": {
+        "$path": "src/ReplicatedStorage"
+      },
+
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+
+    "ReplicatedFirst": {
+      "Source": {
+        "$path": "src/ReplicatedFirst"
+      }
+    },
+
+    "ServerScriptService": {
+      "Source": {
+        "$path": "src/ServerScriptService"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Source": {
+          "$path": "src/StarterPlayerScripts"
+        }
+      }
+    }
+  }
+}
